@@ -1,16 +1,16 @@
 # Hi there, I'm Benjamin Appiah! 👋
 
-![Banner Image]https://www.canva.com/design/DAGrdgFxv7U/OcRkcoSJqDvtEDHAfawmpg/edit?utm_content=DAGrdgFxv7U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Banner Image](https://www.canva.com/design/DAGrdgFxv7U/OcRkcoSJqDvtEDHAfawmpg/edit?utm_content=DAGrdgFxv7U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Front-End Software Developer** with experience in **Web Technologies and Programming Languages**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create impactful and innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **Advanced Web Technologies, Data Analytics, NextJs, React, React Native, NodeJs**
+- 🔭 Working on: **Javo Inventory Management System**
+- 🌍 Languages: **Programming Languages: Python, Javascript, Ruby, C | Human Languages: English, Basic French "Oui"**
+- 📫 How to reach me: **ben.appiah451@gmail.com**
+- ⚡ Fun fact: **I am always willing to help out**
 
 ## My Skills 🧠
 
